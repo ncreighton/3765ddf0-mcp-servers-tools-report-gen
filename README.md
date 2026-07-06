@@ -1,2 +1,28 @@
-# 3765ddf0-mcp-servers-tools-report-gen
-Built for mcp servers professionals who are tired of manually copying data between apps and rebuilding the same process every time.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Mcp Servers &amp; Tools Report Generation An
+# MCP Servers & Tools Report Generation and Delivery Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu9AT12DbUE1degUccZF37)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu9AT12DbUE1degUccZF37)
+
